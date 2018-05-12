@@ -1,5 +1,8 @@
 _repo: Erema--Or-My-Father-s-Sin_7112
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackmore, R. D. (Richard Doddridge)
@@ -14,6 +17,8 @@ description: "Erema; or, my father's sin is a three-volume novel by R. D. Blackm
   \ father escaped from England having been charged with a murder he did not commit.\
   \ Erema has grown up in exile with her father, and the story begins in California\
   \ in the 1850s.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7112#Erema--Or-My-Father-s-Sin
 gutenberg_issued: '2006-06-06'
 gutenberg_type: Text
 identifiers:
